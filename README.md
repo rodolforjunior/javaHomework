@@ -1,6 +1,4 @@
-# javaHomework
-Trabalho prático da primeira etapa da disciplina de Tecnologia de Orientação a Objetos
-# javaHomework
+
 
 Trabalho prático da primeira etapa da disciplina de Tecnologia de Orientação a Objetos
 ================================================================================
