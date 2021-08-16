@@ -2,7 +2,7 @@
 
 Trabalho prático da primeira etapa da disciplina de Tecnologia de Orientação a Objetos
 
-================================================================================
+==================================================================
 
 1)  Crie  uma  aplicação  Java  que  deve  fazer  a  leitura  do  nome  de  uma  pessoa  e  do 
 seu  salário.  Com  base  no  salário  informado  deve  ser  calculado  o  valor  do 
@@ -15,15 +15,15 @@ os cálculos apresente a seguinte saída para o usuário:
 Tabela 1:
 
 
-  De        Até       Alíquota 
+|    De    |   Até    | Alíquota | 
   
-0,00        1.100,00       7,5% 
+|   0,00   | 1.100,00 |   7,5%   |
 
-1.100,01  2.203,48       9,00% 
+| 1.100,01 | 2.203,48 |  9,00%   |
 
-2.203,49  3.305,22      12,00% 
+| 2.203,49 | 3.305,22 | 12,00%   |
 
-3.305,23  6.433,57      14,00% 
+| 3.305,23 | 6.433,57 | 14,00%   |
 
 
 Nome: João da Silva 
